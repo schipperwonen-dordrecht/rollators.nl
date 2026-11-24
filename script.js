@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Rollators.nl - Interactive Scripts
  * Senior-friendly, lightweight & accessible vanilla JavaScript
  */
@@ -160,7 +160,7 @@ document.addEventListener('DOMContentLoaded', () => {
         <a href="#contact" class="btn btn-primary" onclick="selectModelInForm('${item.title}'); closeModal();">
           Vrijblijvend proefrijden inplannen
         </a>
-        <a href="tel:0786172670" class="btn btn-call">
+        <a href="tel:0786314858" class="btn btn-call">
           📞 Direct bellen voor advies
         </a>
       </div>
@@ -230,3 +230,4 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 });
+
